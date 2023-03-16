@@ -27,4 +27,4 @@ This repository contiant all texture used by Janoeo mod.
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 France License](http://creativecommons.org/licenses/by-sa/3.0/fr/).
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en).
